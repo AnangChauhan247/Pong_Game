@@ -5,7 +5,7 @@ Simple C++ SFML based pong game with framerate independent movement
 
 # Dependencies
   * SFML Library
-  * OpenSans-Regular.ttd Font
+  * OpenSans-Regular.ttf Font
 
 # Setup-Information
 The sfml-pong source code is tested and compiled using Visual Studio 2022
