@@ -74,9 +74,9 @@ int main()
         }
 
         // Check if either player wins (reaches a score of 2)
-        if (score1Val == 2 || score2Val == 2)
+        if (score1Val == 5 || score2Val == 5)
         {
-            if (score1Val == 2)
+            if (score1Val == 5)
             {
                 winnerText.setString("Player 1 Wins!");
             }
