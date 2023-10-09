@@ -9,3 +9,7 @@ Simple C++ SFML based pong game with framerate independent movement
 
 # Setup-Information
 The sfml-pong source code is tested and compiled using Visual Studio 2022
+
+### Note
+The is completely working....but due to some logic error, compitability issues and time limit this code is not following Object Oriented Programming Paradigmn, everything else is working fine.
+I hope you consider this assignment.
